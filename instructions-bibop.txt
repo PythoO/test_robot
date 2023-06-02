@@ -1,0 +1,8 @@
+pour la camera 
+
+python camstream.py
+
+Pour le robot
+
+sudo pigpio
+python3 bibop.py
